@@ -1,6 +1,6 @@
 package src.maratonajava;
 
-public class Aula05Exercicio01 {
+public class Aula05Exercicio02 {
     public static void main(String[] args) {
         // Dados os valores de 1 a 7, imprima se é dia útil ou final de semana
         // Considerando 1 como Domingo
