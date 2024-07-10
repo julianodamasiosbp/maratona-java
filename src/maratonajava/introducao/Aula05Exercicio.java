@@ -1,4 +1,4 @@
-package maratonajava;
+package src.maratonajava.introducao;
 
 public class Aula05Exercicio {
     public static void main(String[] args) {

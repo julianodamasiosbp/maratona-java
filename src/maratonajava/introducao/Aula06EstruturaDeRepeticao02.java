@@ -1,4 +1,4 @@
-package maratonajava;
+package src.maratonajava.introducao;
 
 public class Aula06EstruturaDeRepeticao02 {
 
