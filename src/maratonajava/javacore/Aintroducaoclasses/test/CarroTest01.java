@@ -16,5 +16,9 @@ public class CarroTest01 {
 
         System.out.println(carro01.toString());
         System.out.println(carro02.toString());
+        // carro01 = carro02;
+        // Nesse caso o carro01 perdeu a referência dos seus dados, e agora
+        // está fazendo referência ao carro02, não sendo possível retornar para referência
+        // para carro01
     }
 }
