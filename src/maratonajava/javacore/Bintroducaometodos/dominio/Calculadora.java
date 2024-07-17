@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Aintroducaoclasses.Bintroducaometodos.dominio;
+package src.maratonajava.javacore.Bintroducaometodos.dominio;
 
 public class Calculadora {
 
@@ -20,5 +20,12 @@ public class Calculadora {
     public void multiplicaNumeros(int x, int y) {
         System.out.println("Multiplica dois números");
         System.out.println(x * y);
+    }
+
+    public double divideDoisNumeros(double x, double y) {
+        if(y == 0) {
+            return 0;
+        }
+        return x / y;
     }
 }
