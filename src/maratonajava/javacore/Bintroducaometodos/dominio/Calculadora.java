@@ -28,4 +28,19 @@ public class Calculadora {
         }
         return x / y;
     }
+
+    public double divideDoisNumeros02(double x, double y) {
+        if(y == 0) {
+            return 0;
+        }
+        return x / y;
+    }
+
+    public void imprimeDivisaoDeDoisNumeros(double x, double y) {
+        if(y == 0) {
+            System.out.println("Não existe divisão por zero.");
+            return;
+        }
+            System.out.println("A divisão de "+x+" por "+y+" é: "+ x / y);
+    }
 }

@@ -15,5 +15,7 @@ public class CalculadoraTest01 {
 
         var numCalculado = calculadora.divideDoisNumeros(num, num2);
         System.out.println("Numero Calculado: "+numCalculado);
+
+        calculadora.imprimeDivisaoDeDoisNumeros(10, 30);
     }
 }
