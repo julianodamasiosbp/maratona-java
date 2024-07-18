@@ -43,4 +43,19 @@ public class Calculadora {
         }
             System.out.println("A divisão de "+x+" por "+y+" é: "+ x / y);
     }
+
+    public void alteraDoisNumeros(int x, int y) {
+        x = 99;
+        y = 33;
+        System.out.println("Dentro do alteraDoisNumeros");
+        System.out.println("x: "+x+" y: "+y);
+
+    }
+
+    public void alteraDoisNumeros02(Double x, Double y) {
+        x = 99d;
+        y = 33d;
+        System.out.println("Dentro do alteraDoisNumeros02");
+        System.out.println("x: "+x+" y: "+y);
+    }
 }
