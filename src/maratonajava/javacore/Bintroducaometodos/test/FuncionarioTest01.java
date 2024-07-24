@@ -8,10 +8,12 @@ public class FuncionarioTest01 {
         funcionario.nome = "Joao";
         funcionario.idade = 47;
 
-//        funcionario.adicionarSalario(5000);
-//        funcionario.adicionarSalario(1500);
+        funcionario.adicionarSalario(5000);
+        funcionario.adicionarSalario(1500);
+        funcionario.adicionarSalario(1700);
+        funcionario.adicionarSalario(5500);
 
-//        funcionario.imprimeOsDados();
-//        funcionario.mediaSalario();
+        funcionario.imprimeOsDados();
+        funcionario.mediaSalario();
     }
 }
