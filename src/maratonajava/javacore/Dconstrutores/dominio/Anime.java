@@ -5,17 +5,28 @@ public class Anime {
     private String tipo;
     private int episodios;
     private String genero;
+    private String estudio;
 
-    public Anime(){}
+    public Anime(){
+        System.out.println("Dentro do construtor sem argumento");
+    }
 
     public Anime(String nome, String tipo, int episodios, String genero){
-        System.out.println("Dentro do Construtor");
+        this();
         this.nome = nome;
         this.tipo = tipo;
         this.episodios = episodios;
         this.genero = genero;
     }
 
+    public Anime(String nome, String tipo, int episodios, String genero, String estudio) {
+        this(nome, tipo, episodios, genero);
+        this.nome = nome;
+        this.tipo = tipo;
+        this.episodios = episodios;
+        this.genero = genero;
+        this.estudio = estudio;
+    }
 
     @Override
     public String toString() {
