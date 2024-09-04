@@ -1,16 +1,22 @@
 package src.maratonajava.javacore.Hheranca.dominio;
 
 public class Funcionario extends Pessoa {
+
     private double salario;
+
+    public Funcionario(String nome) {
+        super(nome);
+    }
 
     @Override
     public void imprime() {
-        System.out.println("Nome: " + super.getNome());
-        System.out.println("CPF: " + super.getCpf());
-        System.out.println("Rua: " + super.getEndereco().getRua());
-        System.out.println("CEP: " + super.getEndereco().getCep());
+        super.imprime();
         System.out.println("Salario: " + salario);
         System.out.println("=============================");
+    }
+
+    public void relatorioPagamento() {
+        System.out.println("Eu " + this.nome + " recebi o salário de " + this.salario + " reais");
     }
 
     public double getSalario() {

@@ -2,9 +2,13 @@ package src.maratonajava.javacore.Hheranca.dominio;
 
 public class Pessoa {
 
-    private String nome;
-    private String cpf;
-    private Endereco endereco;
+    protected String nome;
+    protected String cpf;
+    protected Endereco endereco;
+
+    public Pessoa(String nome) {
+        this.nome = nome;
+    }
 
     public void imprime() {
         System.out.println("Nome: " + nome);
