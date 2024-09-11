@@ -4,10 +4,12 @@ public class Cliente {
 
     private String nome;
     private TipoCliente tipo;
+    private TipoPagamento tipoPagamento;
 
-    public Cliente(String nome, TipoCliente tipo) {
+    public Cliente(String nome, TipoCliente tipo, TipoPagamento tipoPagamento) {
         this.nome = nome;
         this.tipo = tipo;
+        this.tipoPagamento = tipoPagamento;
     }
 
     public String getNome() {
@@ -33,6 +35,7 @@ public class Cliente {
                 ", tipo=" + tipo +", " +
                 ", tipoInt=" + tipo.VALOR +
                 ", tipoDescricao=" + tipo.DESCRICAO +
+                ", tipoPagamento=" + tipoPagamento +
                 '}';
     }
 }

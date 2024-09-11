@@ -11,4 +11,13 @@ public enum TipoCliente {
         VALOR = valor;
         DESCRICAO = descricao;
     }
+
+    public static TipoCliente obterTipoClienteNomeRelatorio(String nomeRelatorio) {
+        for (TipoCliente tipo : TipoCliente.values()) {
+            if (tipo.DESCRICAO.equals(nomeRelatorio)) {
+                return tipo;
+            }
+        }
+        return null;
+    }
 }
