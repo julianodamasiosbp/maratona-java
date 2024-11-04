@@ -25,5 +25,7 @@ public class WrapperTest01 {
         // Long longW = 4 -> Aqui entra a regra do polimorfismo (Objetos), nesse caso apresenta um erro ao tentar
         // adicionar um int em um Wrapper Long
 
+        int resultado = Integer.parseInt("`1");
+
     }
 }
