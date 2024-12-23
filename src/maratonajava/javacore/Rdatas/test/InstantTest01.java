@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Rdatas.test;
+package maratonajava.javacore.Rdatas.test;
 
 import java.time.Instant;
 import java.time.LocalDate;

@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Minterface.dominio;
+package maratonajava.javacore.Minterface.dominio;
 
 public class DatabaseLoader implements DataLoader{
     @Override

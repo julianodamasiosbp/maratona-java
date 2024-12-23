@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Bintroducaometodos.dominio;
+package maratonajava.javacore.Bintroducaometodos.dominio;
 
 public class Funcionario {
     private String nome;

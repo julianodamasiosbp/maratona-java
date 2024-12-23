@@ -1,7 +1,7 @@
-package src.maratonajava.javacore.Lclassesabstratas.test;
+package maratonajava.javacore.Lclassesabstratas.test;
 
-import src.maratonajava.javacore.Lclassesabstratas.dominio.Desenvolvedor;
-import src.maratonajava.javacore.Lclassesabstratas.dominio.Gerente;
+import maratonajava.javacore.Lclassesabstratas.dominio.Desenvolvedor;
+import maratonajava.javacore.Lclassesabstratas.dominio.Gerente;
 
 public class FuncionarioTest01 {
     public static void main(String[] args) {

@@ -1,8 +1,8 @@
-package src.maratonajava.javacore.Hheranca.test;
+package maratonajava.javacore.Hheranca.test;
 
-import src.maratonajava.javacore.Hheranca.dominio.Endereco;
-import src.maratonajava.javacore.Hheranca.dominio.Funcionario;
-import src.maratonajava.javacore.Hheranca.dominio.Pessoa;
+import maratonajava.javacore.Hheranca.dominio.Endereco;
+import maratonajava.javacore.Hheranca.dominio.Funcionario;
+import maratonajava.javacore.Hheranca.dominio.Pessoa;
 
 public class HerancaTest01 {
     public static void main(String[] args) {

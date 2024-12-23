@@ -1,8 +1,8 @@
-package src.maratonajava.javacore.Oexception.exception.test;
+package maratonajava.javacore.Oexception.exception.test;
 
-import src.maratonajava.javacore.Oexception.exception.dominio.Funcionario;
-import src.maratonajava.javacore.Oexception.exception.dominio.LoginInvalidoException;
-import src.maratonajava.javacore.Oexception.exception.dominio.Pessoa;
+import maratonajava.javacore.Oexception.exception.dominio.Funcionario;
+import maratonajava.javacore.Oexception.exception.dominio.LoginInvalidoException;
+import maratonajava.javacore.Oexception.exception.dominio.Pessoa;
 
 public class SobrescritaComExceptionTest01 {
     public static void main(String[] args) {

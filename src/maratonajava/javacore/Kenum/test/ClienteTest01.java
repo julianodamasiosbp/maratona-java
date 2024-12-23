@@ -1,8 +1,8 @@
-package src.maratonajava.javacore.Kenum.test;
+package maratonajava.javacore.Kenum.test;
 
-import src.maratonajava.javacore.Kenum.dominio.Cliente;
-import src.maratonajava.javacore.Kenum.dominio.TipoCliente;
-import src.maratonajava.javacore.Kenum.dominio.TipoPagamento;
+import maratonajava.javacore.Kenum.dominio.Cliente;
+import maratonajava.javacore.Kenum.dominio.TipoCliente;
+import maratonajava.javacore.Kenum.dominio.TipoPagamento;
 
 public class ClienteTest01 {
     public static void main(String[] args) {

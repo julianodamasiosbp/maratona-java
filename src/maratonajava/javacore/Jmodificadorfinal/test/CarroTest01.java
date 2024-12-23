@@ -1,8 +1,8 @@
-package src.maratonajava.javacore.Jmodificadorfinal.test;
+package maratonajava.javacore.Jmodificadorfinal.test;
 
-import src.maratonajava.javacore.Jmodificadorfinal.dominio.Carro;
-import src.maratonajava.javacore.Jmodificadorfinal.dominio.Comprador;
-import src.maratonajava.javacore.Jmodificadorfinal.dominio.Ferrari;
+import maratonajava.javacore.Jmodificadorfinal.dominio.Carro;
+import maratonajava.javacore.Jmodificadorfinal.dominio.Comprador;
+import maratonajava.javacore.Jmodificadorfinal.dominio.Ferrari;
 
 public class CarroTest01 {
     public static void main(String[] args) {

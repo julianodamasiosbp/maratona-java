@@ -1,8 +1,8 @@
-package src.maratonajava.javacore.Minterfaces.test;
+package maratonajava.javacore.Minterfaces.test;
 
-import src.maratonajava.javacore.Minterfaces.dominio.DataLoader;
-import src.maratonajava.javacore.Minterfaces.dominio.Databaseloader;
-import src.maratonajava.javacore.Minterfaces.dominio.FileLoader;
+import maratonajava.javacore.Minterfaces.dominio.DataLoader;
+import maratonajava.javacore.Minterfaces.dominio.Databaseloader;
+import maratonajava.javacore.Minterfaces.dominio.FileLoader;
 
 public class DataLoaderTest01 {
     public static void main(String[] args) {

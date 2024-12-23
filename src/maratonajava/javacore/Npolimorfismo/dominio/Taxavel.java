@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Npolimorfismo.dominio;
+package maratonajava.javacore.Npolimorfismo.dominio;
 
 public interface Taxavel {
     double calcularImposto();

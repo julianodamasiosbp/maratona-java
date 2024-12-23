@@ -1,7 +1,7 @@
-package src.maratonajava.javacore.Gassociacao.test;
+package maratonajava.javacore.Gassociacao.test;
 
-import src.maratonajava.javacore.Gassociacao.dominio.Escola;
-import src.maratonajava.javacore.Gassociacao.dominio.Professor;
+import maratonajava.javacore.Gassociacao.dominio.Escola;
+import maratonajava.javacore.Gassociacao.dominio.Professor;
 
 public class EscolaTest01 {
     public static void main(String[] args) {

@@ -1,9 +1,9 @@
-package src.maratonajava.javacore.Npolimorfismo.test;
+package maratonajava.javacore.Npolimorfismo.test;
 
-import src.maratonajava.javacore.Npolimorfismo.dominio.Computador;
-import src.maratonajava.javacore.Npolimorfismo.dominio.Televisao;
-import src.maratonajava.javacore.Npolimorfismo.dominio.Tomate;
-import src.maratonajava.javacore.Npolimorfismo.servico.CalculadoraImposto;
+import maratonajava.javacore.Npolimorfismo.dominio.Computador;
+import maratonajava.javacore.Npolimorfismo.dominio.Televisao;
+import maratonajava.javacore.Npolimorfismo.dominio.Tomate;
+import maratonajava.javacore.Npolimorfismo.servico.CalculadoraImposto;
 
 public class ProdutoTest01 {
     public static void main(String[] args) {

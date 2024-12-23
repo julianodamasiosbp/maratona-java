@@ -1,4 +1,4 @@
-package src.maratonajava.introducao;
+package maratonajava.introducao;
 
 public class Aula06Exercicio02 {
 	// Dado o valor de um carro, descubra em quantas parcelas é possivel obter

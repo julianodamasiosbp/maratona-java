@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Lclassesabstratas.dominio;
+package maratonajava.javacore.Lclassesabstratas.dominio;
 
 public class Gerente extends Funcionario{
     public Gerente(String nome, double salario) {

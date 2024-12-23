@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Hheranca.dominio;
+package maratonajava.javacore.Hheranca.dominio;
 
 public class Funcionario extends Pessoa {
 

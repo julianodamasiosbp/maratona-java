@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Oexception.runtime.test;
+package maratonajava.javacore.Oexception.runtime.test;
 
 import java.io.FileNotFoundException;
 //import java.sql.SQLException;

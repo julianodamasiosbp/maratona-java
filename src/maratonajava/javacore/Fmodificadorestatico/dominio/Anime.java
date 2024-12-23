@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Fmodificadorestatico.dominio;
+package maratonajava.javacore.Fmodificadorestatico.dominio;
 
 public class Anime {
     private String nome;

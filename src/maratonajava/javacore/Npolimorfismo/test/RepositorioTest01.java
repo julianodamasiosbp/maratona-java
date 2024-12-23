@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Npolimorfismo.test;
+package maratonajava.javacore.Npolimorfismo.test;
 
 import java.util.ArrayList;
 import java.util.List;

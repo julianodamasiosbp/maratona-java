@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Jmodificadorfinal.dominio;
+package maratonajava.javacore.Jmodificadorfinal.dominio;
 
 public class Ferrari extends Carro {
     private String nome;

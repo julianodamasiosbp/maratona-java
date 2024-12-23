@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Dconstrutores.dominio;
+package maratonajava.javacore.Dconstrutores.dominio;
 
 public class Anime {
     private String nome;

@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Aintroducaoclasses.dominio;
+package maratonajava.javacore.Aintroducaoclasses.dominio;
 
 public class Carro {
     public String nome;

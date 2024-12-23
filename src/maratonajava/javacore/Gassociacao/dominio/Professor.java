@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Gassociacao.dominio;
+package maratonajava.javacore.Gassociacao.dominio;
 
 import java.util.Arrays;
 

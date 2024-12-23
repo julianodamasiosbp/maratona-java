@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Minterfaces.dominio;
+package maratonajava.javacore.Minterfaces.dominio;
 
 public interface DataLoader {
     int MAX = 10;

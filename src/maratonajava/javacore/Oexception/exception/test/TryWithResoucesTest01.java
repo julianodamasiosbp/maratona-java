@@ -1,7 +1,7 @@
-package src.maratonajava.javacore.Oexception.exception.test;
+package maratonajava.javacore.Oexception.exception.test;
 
-import src.maratonajava.javacore.Oexception.exception.dominio.Leitor01;
-import src.maratonajava.javacore.Oexception.exception.dominio.Leitor02;
+import maratonajava.javacore.Oexception.exception.dominio.Leitor01;
+import maratonajava.javacore.Oexception.exception.dominio.Leitor02;
 
 import java.io.*;
 

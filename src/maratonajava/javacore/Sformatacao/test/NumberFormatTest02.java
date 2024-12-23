@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Sformatacao.test;
+package maratonajava.javacore.Sformatacao.test;
 
 import java.text.NumberFormat;
 import java.text.ParseException;

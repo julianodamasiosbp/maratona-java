@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Oexception.error.test;
+package maratonajava.javacore.Oexception.error.test;
 
 public class StackOverFlowTest01 {
     public static void main(String[] args) {

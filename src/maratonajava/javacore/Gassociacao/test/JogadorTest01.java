@@ -1,6 +1,6 @@
-package src.maratonajava.javacore.Gassociacao.test;
+package maratonajava.javacore.Gassociacao.test;
 
-import src.maratonajava.javacore.Gassociacao.dominio.Jogador;
+import maratonajava.javacore.Gassociacao.dominio.Jogador;
 
 public class JogadorTest01 {
     public static void main(String[] args) {

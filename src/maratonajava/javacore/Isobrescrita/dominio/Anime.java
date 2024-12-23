@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Isobrescrita.dominio;
+package maratonajava.javacore.Isobrescrita.dominio;
 
 public class Anime {
 

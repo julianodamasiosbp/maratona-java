@@ -1,4 +1,4 @@
-package src.maratonajava.javacore.Oexception.exception.dominio;
+package maratonajava.javacore.Oexception.exception.dominio;
 
 public class LoginInvalidoException extends Exception {
     public LoginInvalidoException() {
