@@ -7,7 +7,7 @@ import java.util.Date;
 
 public class FileTest01 {
     public static void main(String[] args) {
-        File file = new File("/home/juliano/projetos/back/devdojo/maratona-java/arquivo/file.txt");
+        File file = new File("file.txt");
         try {
             boolean isCreated = file.createNewFile();
             System.out.println("Created: " + isCreated);
