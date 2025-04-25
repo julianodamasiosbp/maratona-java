@@ -50,4 +50,9 @@ public class Smartphone {
         return super.hashCode();
     }
 
+    @Override
+    public String toString() {
+        return "Smartphone [serialNumber=" + serialNumber + ", modelo=" + modelo + "]";
+    }
+
 }
